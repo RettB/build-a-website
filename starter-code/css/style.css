@@ -1,0 +1,86 @@
+body {
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: center;
+	font-family: Arial;
+}
+
+header {
+	padding-top: 20px;
+}
+
+nav {
+	font-size: 30px;
+}
+
+a {
+	text-decoration: none;
+	padding: 0 5px 0 5px;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h3 {
+	font-size: 40px;
+}
+
+p {
+	font-size: 30px;
+}
+
+li {
+	font-size: 30px;
+}
+
+#page_border {
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+}
+
+#content {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#text {
+	vertical-align: top;
+	display: inline-block;
+	text-align: left;
+	width: 40%;
+	padding-right: 5%;
+}
+
+#headshot {
+	display: inline-block;
+	width: 40%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+#experience {
+	text-align: left;
+}
+
+#education {
+	text-align: left;
+}
+
+#portfolio {
+	text-align: left;
+}
+
+.portfolio_images {
+	display: block;
+	margin: auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+footer {
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
